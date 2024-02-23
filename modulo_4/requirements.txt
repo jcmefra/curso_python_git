@@ -1,0 +1,9 @@
+pandas
+numpy
+lasio
+matplotlib
+seaborn
+missingno
+dlisio
+scikit-learn
+statsmodels
